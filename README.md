@@ -2,7 +2,7 @@
 - En este repositorio Github encontraremos 7 apis realizadaz con flutter y el lemguaje de programacion "dart" las aplicaciones en cuestion son
   ## "Galeria de 4 imagenes", Esta es una simple galeria con SinglechildScrollview q esta conformada por 4 imagenes
   ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/galeria4.jpg)
-  ##"Galeria de 30 imagenes", esta es la misma galeria con botones abajo y lo unico cambiante es el aumento de la cantidad de imagenes 4>30
+  ## "Galeria de 30 imagenes", esta es la misma galeria con botones abajo y lo unico cambiante es el aumento de la cantidad de imagenes 4>30
   ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/galeria30.jpg)
   ## "Palabras", es un generador infinito de palabras en ingles con la funcion de likeo y su pestaña de favoritos
   ![Image text](https://github.com/felipeQuevedo/Proyecto_final/blob/main/Palabras1.jpg)
